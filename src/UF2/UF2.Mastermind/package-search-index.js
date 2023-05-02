@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"UF2DoubleReals"},{"l":"UF2GestioIntDouble"},{"l":"UF2Mastermind"},{"l":"UF2PasamEntrada"},{"l":"UF2RegistreNotes"},{"l":"UF2RegistreTemperatures"}];updateSearchResults();
